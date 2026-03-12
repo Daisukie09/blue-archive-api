@@ -1,4 +1,5 @@
 {
+  "installCommand": "npm install",
   "functions": {
     "api/generate.ts": {
       "memory": 1024,
